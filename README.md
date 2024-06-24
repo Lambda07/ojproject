@@ -17,6 +17,18 @@ Online Judge is an interactive platform designed for coding enthusiasts. It allo
 
 Online Judge uses Node.js child processes to execute C, C++, Java, and Python code. The backend ensures secure and isolated runtime environments for each code snippet.
 
+### DEMO VIDEO
+
+
+# Project Title
+
+
+[![Loom Video](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot.png)](https://www.loom.com/embed/649b80d291a24038bd7675d823d69bec?sid=bbc80db7-a735-43ca-bc98-c26d6af7a6b1)
+
+Click the image above to watch the video.
+
+
+
 ### Technology Stack
 
 - **Frontend**: Developed with ReactJS for a dynamic user interface.
